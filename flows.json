@@ -322,7 +322,7 @@
         "topic": "obi1",
         "qos": "0",
         "datatype": "auto-detect",
-        "broker": "e54624d3d2676ea8",
+        "broker": "e5abc8f7c3647043",
         "nl": false,
         "rap": true,
         "rh": 0,
